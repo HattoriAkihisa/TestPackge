@@ -1,0 +1,7 @@
+name = "Package"
+uuid = "014c7b10-fad8-40b2-8d82-9f645e96117c"
+authors = ["Akihisa Hattori <hattori.akihisa.0124@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
